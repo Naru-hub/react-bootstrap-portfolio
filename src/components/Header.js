@@ -12,7 +12,7 @@ const Header = () => {
           <a href="#">ホーム</a>
         </li>
         <li>
-          <a href="#">Git</a>
+          <a href="#">ブログ</a>
         </li>
         <li>
           <a href="#">SNS</a>
